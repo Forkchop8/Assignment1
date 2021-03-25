@@ -2,9 +2,9 @@
 
 namespace Assignment1
 {
-    class Program
+    class Programs
     {
-        static void Main(string[] args)
+        static void Mains(string[] args)
         {
             String names;
 
