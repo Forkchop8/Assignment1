@@ -12,8 +12,11 @@ namespace Assignment1
             names = Console.ReadLine();
             Console.WriteLine("please enter the second member's name:");
             names += " and " + Console.ReadLine();
+            Console.WriteLine("Where do you study?");
+            names = Console.ReadLine();
 
             Console.WriteLine("Hello " + names);
+            Console.WriteLine("Enjoy your studies at" + names);
         }
     }
 }
